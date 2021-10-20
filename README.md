@@ -1,4 +1,4 @@
-Deployment Link: https://ary324.github.io/aircall/
+Deployment Link: https://lucid-payne-6348b4.netlify.app/
 
 ## Summary
 

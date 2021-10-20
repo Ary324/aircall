@@ -1,4 +1,4 @@
-Deployment Link:https://aircall-pul9gsaz2-ary324.vercel.app/
+Deployment Link: https://ary324.github.io/aircall/
 
 ## Summary
 
